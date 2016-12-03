@@ -1,4 +1,5 @@
 Git チュートリアル
 
  - feature-A
-fix-b dayo
+ - fix-b dayo
+ - feature-C
